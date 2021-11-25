@@ -1,0 +1,1 @@
+## Program covering basic error handling and logging in Go

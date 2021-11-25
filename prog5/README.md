@@ -1,0 +1,1 @@
+## Program covering basic error handling and logging in Go, along with a few Math functions, arrays and maintaining backwards compatibility. Also includes testing.
